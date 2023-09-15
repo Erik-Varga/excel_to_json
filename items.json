@@ -1,7 +1,7 @@
 [
     {
       "id": "4801a627-cf9e-4208-a802-bf66b8f0b53a",
-      "itemName": "Clock",
+      "productName": "Clock",
       "category": "Clock",
       "condition": "Like New",
       "price": "30",
@@ -13,7 +13,7 @@
     },
     {
       "id": "6c49b044-3a41-4aff-b091-71df010921c7",
-      "itemName": "Canoe",
+      "productName": "Canoe",
       "category": "Boat",
       "condition": "New",
       "price": "150",
@@ -25,7 +25,7 @@
     },
     {
       "id": "14b5ffcb-e087-4ae1-826a-0829d3ba8850",
-      "itemName": "Monopoly",
+      "productName": "Monopoly",
       "category": "Board Game",
       "condition": "Brand New",
       "price": "25",
@@ -37,7 +37,7 @@
     },
     {
       "id": "adb5d5f9-858e-4073-9c60-d97543e9e689",
-      "itemName": "Bicycle",
+      "productName": "Bicycle",
       "category": "Exercise",
       "condition": "Used",
       "price": "150",
@@ -49,7 +49,7 @@
     },
     {
       "id": "3a23a6a7-31f8-4489-9c64-9c1378f4537c",
-      "itemName": "Star Wars Lego",
+      "productName": "Star Wars Lego",
       "category": "Lego",
       "condition": "Used",
       "price": "30",
